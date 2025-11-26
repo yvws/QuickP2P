@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.quick.p2p</groupId>
   <artifactId>QuickP2P</artifactId>
-  <version>1.0.1</version>
+  <version>1.0.2</version>
   <packaging>aar</packaging>
   <build>
     <plugins>
@@ -57,7 +57,7 @@
 	<dependency>
       <groupId>com.github.yvws</groupId>
       <artifactId>QuickBase</artifactId>
-      <version>1.0.2</version>
+      <version>1.0.3</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
