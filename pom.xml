@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.quick.p2p</groupId>
   <artifactId>QuickP2P</artifactId>
-  <version>1.0.8</version>
+  <version>1.0.9</version>
   <packaging>aar</packaging>
   <build>
     <plugins>
@@ -45,7 +45,7 @@
     <dependency>
       <groupId>com.google.protobuf</groupId>
       <artifactId>protobuf-javalite</artifactId>
-      <version>4.28.2</version>
+      <version>4.34.1</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
@@ -57,7 +57,7 @@
     <dependency>
       <groupId>com.github.yvws</groupId>
       <artifactId>RTCAndroid</artifactId>
-      <version>1.0.8</version>
+      <version>1.1.0</version>
       <scope>runtime</scope>
     </dependency>
   </dependencies>
