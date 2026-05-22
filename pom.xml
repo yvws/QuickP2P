@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.quick.p2p</groupId>
   <artifactId>QuickP2P</artifactId>
-  <version>1.0.9</version>
+  <version>1.1.0</version>
   <packaging>aar</packaging>
   <build>
     <plugins>
@@ -57,7 +57,7 @@
     <dependency>
       <groupId>com.github.yvws</groupId>
       <artifactId>RTCAndroid</artifactId>
-      <version>1.1.0</version>
+      <version>1.1.1</version>
       <scope>runtime</scope>
     </dependency>
   </dependencies>
